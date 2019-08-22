@@ -1,2 +1,2 @@
 # monarch_web
-monarch for EOS
+monarch web project
